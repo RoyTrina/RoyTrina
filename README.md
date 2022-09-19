@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoyTrina
 - 👀 I’m interested in cyber security, especially on risk management
-- 🌱 I’m currently learning data structures and algorithms, databases, information retrieval and web applications
+- 🌱 I’m currently developing my own cross-platform biometric login app
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me:
 
