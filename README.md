@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @RoyTrina
-- 
+
 - 👀 I’m interested in cyber security, especially on risk management
-- 
+
 - 🌱 I’m currently developing my own cross-platform biometric login app
-- 
+
 - 💞️ I’m looking to collaborate on future projects
-- 
+
 - 📫 How to reach me:
 
     Facebook - https://www.facebook.com/roy.trina1999SRK
